@@ -6,7 +6,7 @@ This is where tcp starts. This is where you can stand up a tech challenge platfo
 
 ## App and Infrastructure Generation
 
-When you finishing going through the tcp creation process, you'll end up with an app with a front-end, back-end, along with pipelines deploying it into cloud infrastructure.
+When you finish going through the tcp creation process, you'll end up with an app with a front-end, back-end, along with pipelines deploying it into cloud infrastructure.
 
 Follow the process below to get started.
 
